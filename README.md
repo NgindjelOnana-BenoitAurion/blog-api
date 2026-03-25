@@ -161,7 +161,6 @@ GET /api/articles/search/query?q=mot
 Les tests ont été réalisés avec Postman et beaucoup plus Terminal.
 
 ---
-
 blog-api/
 │
 ├── src/                          # Code source principal
@@ -182,3 +181,4 @@ blog-api/
 ├── package-lock.json             # Verrouillage des versions
 ├── README.md                     # Documentation du projet
 └── database.sqlite               # Fichier de base de données (créé automatiquement)
+b
