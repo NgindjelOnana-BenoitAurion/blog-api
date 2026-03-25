@@ -15,6 +15,7 @@ API backend  de gestion d’articles de blog développée avec Node.js, Express 
 - Rechercher des articles
 
 ---
+LIEIN DE POST Linkedln : https://www.linkedin.com/posts/aurion-ngindjel-593469370_backend-nodejs-api-share-7442461544245932032-2GWD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvnlf8BrvWBhZyLPcV8CEx3u507iV0a4fs
 
 ## 🛠️ Technologies utilisées
 
